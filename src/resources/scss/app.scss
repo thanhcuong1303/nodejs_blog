@@ -1,0 +1,10 @@
+@import 'variable';
+
+.txt {
+    color: #000;
+    font-size: 1rem;
+    background: #fff;
+}
+h1{
+    color: $blue-color;
+}
